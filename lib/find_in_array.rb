@@ -7,6 +7,7 @@ count = 0
   return count if i == value_to_find
   count+= 1
   end
+# binding.pry
 nil 
 end
 
